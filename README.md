@@ -31,13 +31,34 @@
 <br/>
 <br/>
 
+<!-- ━━━━━━━━━━━━━━━━━━ PRO TEAM HERO ━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+```diff
++ CEO  &  FOUNDER  @  PRO  TEAM
+```
+
+### Iraq's largest world-class engineering team.
+
+<sub>Mobile · VR · AI · Web · Cloud — shipping production software at scale.<br/>30+ open-source projects. Apps live in 6+ cities. Clients across MENA and beyond.</sub>
+
+<br/>
+
+<a href="https://kasimmj.com/portfolio"><img src="https://img.shields.io/badge/Pro%20Team-A78BFA?style=for-the-badge&labelColor=000000&logoColor=white" alt="Pro Team"/></a>
+
+</div>
+
+<br/>
+<br/>
+
 <!-- ━━━━━━━━━━━━━━━━━━ INTRO ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 ### I build at the intersection of **engineering** and **imagination**.
 
-<sub>Mobile apps live in 6+ cities. Photorealistic VR worlds. AI platforms.<br/>One person. One stack at a time.</sub>
+<sub>By day, leading Pro Team on production builds.<br/>By night, open-sourcing the tooling that makes us fast.</sub>
 
 </div>
 
@@ -280,7 +301,7 @@ Natural language → Cron. First library with native Arabic support.
 
 <sub>
 
-`kasim.vr` — _building tomorrow's experiences_
+**Pro Team** — _building tomorrow's experiences from Iraq 🇮🇶_
 
 </sub>
 
