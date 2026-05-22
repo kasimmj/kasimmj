@@ -45,7 +45,8 @@
 
 <br/>
 
-<a href="https://kasimmj.com/portfolio"><img src="https://img.shields.io/badge/Pro%20Team-A78BFA?style=for-the-badge&labelColor=000000&logoColor=white" alt="Pro Team"/></a>
+<a href="https://github.com/kasimmj/pro-team"><img src="https://img.shields.io/badge/%E2%98%85%20Pro%20Team%20%E2%98%85-A78BFA?style=for-the-badge&labelColor=000000&logoColor=white" alt="Pro Team"/></a>
+<a href="https://kasimmj.github.io/pro-team/"><img src="https://img.shields.io/badge/Visit%20Pro%20Team%20Site-000000?style=for-the-badge&labelColor=000000&logoColor=white" alt="Site"/></a>
 
 </div>
 
